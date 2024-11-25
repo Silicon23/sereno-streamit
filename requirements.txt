@@ -2,7 +2,5 @@ streamlit
 openai
 pandas
 numpy
+Pillow
 requests
-pillow
-io
-json
