@@ -3,6 +3,6 @@ openai
 pandas
 numpy
 requests
-PIL
+pillow
 io
 json
